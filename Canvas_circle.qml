@@ -49,7 +49,6 @@ Canvas {
                 canvas.angleOffset + canvas.angle);
         ctx.stroke();
         ctx.restore();
-
         }
     }
 
