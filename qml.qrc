@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Canvas_circle.qml</file>
+        <file>Main_rect.qml</file>
+        <file>Functions.js</file>
+        <file>Loading_Animation.qml</file>
+        <file>False_input_animation.qml</file>
+        <file>False_input_text.qml</file>
+    </qresource>
+</RCC>
